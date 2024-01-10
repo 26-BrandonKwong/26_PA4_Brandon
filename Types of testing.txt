@@ -1,0 +1,17 @@
+Unit Testing
+What is unit Testing?
+
+Unit testing is the execution of a complete class, routine or small program that has
+been written by a single programmer or team of programmers, which is tested in
+isolation from the more complete system.
+
+Unit testing (or component testing) is to test the smallest units or software
+components in a program.
+
+Unit Testing is conducted by anyone who has access to the source code for the project or application.
+It is a type of (blackbox/whitebox testing)
+
+What is Integration Testing?
+
+Integration Testing reveals interface problems as well
+as conflicts between integrated parts.
